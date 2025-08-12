@@ -1,7 +1,8 @@
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col justify-center items-center text-center p-8">
-      <h1 className="text-5xl font-bold text-ink mb-4">EDUAIFY</h1>
+    <main aclassName="min-h-screen flex flex-col justify-center items-center text-center p-8">
+
+    <h1 className="text-5xl font-bold text-ink mb-4">EDUAIFY</h1>
       <p className="mb-6 text-lg text-mute max-w-xl">
         Genera cursos increíbles con IA en 60 segundos.
       </p>
